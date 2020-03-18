@@ -1,0 +1,212 @@
+{
+  "contact": {
+    "phone": "+91 7602296711",
+    "email": "rbr.rakshit14@gmail.com",
+    "website": "",
+    "location": "New Delhi, India"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        
+        {
+          "name": "Web App Development",
+          "percent": 95
+        },
+        {
+          "name": "Project Management",
+          "percent": 92
+        },
+        {
+          "name": "Website Development",
+          "percent": 70
+        },
+        {
+          "name": "Blockchain",
+          "percent": 25
+        },
+        {
+          "name": "Dev Ops",
+          "percent": 40
+        },
+        {
+          "name": "Backend Development",
+          "percent": 93
+        },
+        {
+          "name": "Data Science",
+          "percent": 30
+        },
+        {
+          "name": "Artificial Intelligence",
+          "percent": 70
+        },
+        {
+          "name": "UX",
+          "percent": 65
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Javascript",
+          "percent": 96
+        },
+        {
+          "name": "Java",
+          "percent": 82
+        },
+        {
+          "name": "Python",
+          "percent": 60
+        },
+        {
+          "name": "C++",
+          "percent": 70
+        },
+        {
+          "name": "PHP",
+          "percent": 56
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "Flutter"
+        },
+        {
+          "name": "Bootstrap"
+        },
+        {
+          "name": "Angular"
+        },
+        {
+          "name": "Node"
+        },
+        {
+          "name": "Express"
+        },
+        {
+          "name": "Gatsby"
+        },
+        {
+          "name": "Django"
+        },
+        {
+          "name": "Next"
+        },
+        {
+          "name": "Phaser"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Android Studio"
+        },
+        {
+          "name": "Unity"
+        },
+        {
+          "name": "Google Analytics"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "Mongodb"
+        }
+      ]
+    }
+  ],
+  "summary": "Passionate web developer with a multidisciplinary skill set honed over 3+ internships. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "education": [
+    {
+      "institution": "Hansraj College, Delhi University",
+      "degree": "B.Sc (Hons) Computer Science",
+      "start": "2018",
+      "end": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Teaching Assistant",
+      "company": "Campk12.com",
+      "description": "Teaching kids about Game Development using Scratch & HatchXR. Also, kids are taught Aritificial Intelligence using TheAiPlayground.com.",
+      "start": "10/2019",
+      "end": "02/2020"
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Universal Smart Services",
+      "description": "I built 4 full stack web projects during my contract.",
+      "start": "10/2019",
+      "end": "11/2019"
+    },
+    {
+      "role": "Front End Web Developer",
+      "company": "Isetf.org",
+      "description": "Worked as a lead front-end developer for Indian Scientific Education and Technology Foundatation which is a NGO striving towards scientific education. I was responsible for the development of the website, managing development team.",
+      "start": "08/2019",
+      "end": "10/2019"
+    },
+    {
+      "role": "JavaScript Development Intern",
+      "company": "MangoBlogger.com",
+      "description": "I was responsible for the UX and development of admin interface for the platform.",
+      "start": "11/2018",
+      "end": "01/2019"
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/riya-rakshit-702216150/"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/RakshitRiya"
+    },
+   
+    {
+      "service": "instagram",
+      "url": "https://www.instagram.com/rakshit.riya/"
+    }
+  ],
+  "role": "Full Stack Web Developer",
+  "projects": [
+    {
+      "name": "React based room chat app",
+      "company": "",
+      "description": "A realtime chat web-application created using ReactJs, NodeJs and Socket.io. No database has been used, therefore, it ensures complete privacy of the user. None of your messages would be stored.",
+      "link": "https://github.com/RakshitRiya/reactchatapp"
+    },
+    {
+      "name": "Development of my resume website",
+      "company": "",
+      "description": "The website has been created using GatsbyJS framework. It is easy to customize the design with thanks to tailwind theming capabilities.",
+      "link": "https://github.com/RakshitRiya/personalwebsite"
+    }
+  ],
+  "fullname": "Riya Rakshit"
+}
